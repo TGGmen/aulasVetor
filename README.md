@@ -16,3 +16,6 @@ F.U.P que o usuário escolha um time de futebol (Palmeiras, Corinthians, São Pa
 
 # exercício 5. 
 F.U.P que o sistema sorteie uma cor aleatória (ex: Azul, Vermelho, Verde, Amarelo, Roxo) e exiba-a para o usuário junto com uma frase característica dessa cor.
+
+feitos por: João e Thiago
+2° DS
